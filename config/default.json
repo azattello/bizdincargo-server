@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:IpNW70E8FblmqJTt@bizdincargo.q7ey9ot.mongodb.net/?retryWrites=true&w=majority&appName=bizdincargo",
+    "secretKey" : "mern-secret-key"
+}
